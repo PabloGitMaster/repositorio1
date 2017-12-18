@@ -13,3 +13,5 @@ hola git!
 Puedo dar formato en *cursiva* y en **negrita**.
 
 Y poner [enlaces](http://gregoriofer.com)
+
+Tienes que hacer `System.out.println("Hello")` en tu primer codigo Java.
